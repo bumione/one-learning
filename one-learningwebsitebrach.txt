@@ -1,3 +1,4 @@
 Mengembangkan planing dari brach main/master
 evaluasi paning website onle learning dari brach main/master
 Melihat planing website
+Menyatukan brach firut 1 dan fitur 2 ke main/master
