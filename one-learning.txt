@@ -1,9 +1,3 @@
-One learning
-Belajar Git dan Github
-Memahami secepatnya
-Belajar github lebih dalam
-Belajar brach
-Belajar gut lebih dalam
-Belajar coding
-Perencanaan Membangun website
-Mulai dari design
+Website apa yang akan dibuat
+Menentukan database apa yang akan dipakai
+mulai coding tampilan frame
