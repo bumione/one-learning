@@ -5,4 +5,5 @@ Belajar github lebih dalam
 Belajar brach
 Belajar gut lebih dalam
 Belajar coding
-Membangun website
+Perencanaan Membangun website
+Mulai dari design
